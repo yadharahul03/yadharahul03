@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Trending Software Technologies**
 
-- 💬 Ask me about **Html Css javascript python django React SQL**
+- 💬 Ask me about **Html Css javascript Java Spring,SpringBoot React MySQL**
 
 - 📫 How to reach me **yadharahul03@gmail.com**
 
